@@ -1,3 +1,3 @@
 # apnacollege
-This is my 1st git repository <br.
+This is my 1st git repository <br>
 Author_Nafis AL sAMI
